@@ -1,7 +1,11 @@
 #screenshots of application
-<p><img src="https://user-images.githubusercontent.com/49032996/92025347-080d3680-ed7d-11ea-8642-e96da23a5740.png" width="500" height="300">
-<img src="<img src=" https://user-images.githubusercontent.com/49032996/92025342-06dc0980-ed7d-11ea-8f34-134474d7acd0.png" width="500" height="300">
-</p>
+![Screenshot (1043)](https://user-images.githubusercontent.com/49032996/92025334-03e11900-ed7d-11ea-850e-baeba5795b69.png)
+![Screenshot (1044)](https://user-images.githubusercontent.com/49032996/92025338-05aadc80-ed7d-11ea-97be-97e645932b04.png)
+![Screenshot (1045)](https://user-images.githubusercontent.com/49032996/92025342-06dc0980-ed7d-11ea-8f34-134474d7acd0.png)
+![Screenshot (1048)](https://user-images.githubusercontent.com/49032996/92025344-0774a000-ed7d-11ea-8f6b-b0840f76dc3a.png)
+![Screenshot (1049)](https://user-images.githubusercontent.com/49032996/92025347-080d3680-ed7d-11ea-8642-e96da23a5740.png)
+
+<p><img src="https://user-images.githubusercontent.com/49032996/92025347-080d3680-ed7d-11ea-8642-e96da23a5740.png" width="500" height="300"></p>
 
 
 
